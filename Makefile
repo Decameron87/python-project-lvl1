@@ -14,4 +14,4 @@ package-install:
 	python3 -m pip install --user dist/*.whl
 
 meke lint:
-	poetry run flake8 btain_games
+	poetry run flake8 brain_games
