@@ -1,7 +1,6 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Decameron87/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Decameron87/python-project-lvl1/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1871fbf00e66f9f7fca4/maintainability)](https://codeclimate.com/github/Decameron87/python-project-lvl1/maintainability)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/c17f1edeccee71977953/maintainability)](https://codeclimate.com/github/Decameron87/python-project-lvl1/maintainability)
+[![Test Coverege](https://api.codeclimate.com/v1/badges/c17f1edeccee71977953/maintainability)](https://codeclimate.com/github/Decameron87/python-project-lvl1/test_coverege)
 # Brain Games!  
 Brain Games - contains 5 console games. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game.
 
