@@ -2,16 +2,16 @@
 name = "hexlet-code"
 version = "0.3.2"
 description = "Brain Games!"
-authors = ["Decameron"]
+authors = ["Decameron87"]
 readme = "README.md"
 packages = [{include = "brain_games"}]
-repository = 'https://github.com/Decameron87/python-project-lvl1'
- 
+repository = 'https://github.com/Decmeron87/python-project-lvl1'
+
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8.1"
 prompt = "^0.4.1"
 
-
+[tool.poetry.group.dev.dependencies]
 flake8 = "^6.0.0"
 
 [build-system]

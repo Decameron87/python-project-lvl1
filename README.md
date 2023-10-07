@@ -14,11 +14,11 @@ Brain Games - contains 5 console games. Each game asks questions that need to be
 
 After successful installation, enter the name of the game:  
 
-```brain-even``` https://asciinema.org/connect/36627ab6-7345-44c3-a1bd-95c8e59627d3   
-```brain-calc``` https://asciinema.org/connect/36627ab6-7345-44c3-a1bd-95c8e59627d3  
-```brain-gcd``` https://asciinema.org/connect/36627ab6-7345-44c3-a1bd-95c8e59627d3  
-```brain-progression``` https://asciinema.org/connect/36627ab6-7345-44c3-a1bd-95c8e59627d3  
-```brain-prime``` https://asciinema.org/connect/36627ab6-7345-44c3-a1bd-95c8e59627d3  
+```brain-even``` https://asciinema.org/a/iHEl3k8noQTr8mTKp416TrRyk    
+```brain-calc``` https://asciinema.org/a/ZViTFmSxbGfm4895OkYg9rbB1  
+```brain-gcd``` https://asciinema.org/a/3fWY23cyJckhecj9RlMgiAHqP  
+```brain-progression``` https://asciinema.org/a/TKMzAji0FXWsXdUMSDCKSRHqe  
+```brain-prime``` https://asciinema.org/a/JKQEIPhe0v6dmaYowA3MqLoiO  
 
 ### Minimum requirements:  
 1) python 3.8.1.  
