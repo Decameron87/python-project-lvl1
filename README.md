@@ -1,5 +1,5 @@
 ### Hexlet tests and linter status:
-[![Maintainability](https://api.codeclimate.com/v1/badges/c17f1edeccee71977953/maintainability)](https://codeclimate.com/github/Decameron87/python-project-lvl1/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c17f1ebeccee71977935/maintainability)](https://codeclimate.com/github/Decameron87/python-project-lvl1/maintainability)
 [![Action Status](https://github.com/Decameron87/python-project-lvl1/workflows/hexlet-check/badge.svg)]((https://github.com/Decameron87/python-project-lvl1/actions)
 
 # Brain Games!  
