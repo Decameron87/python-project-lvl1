@@ -4,7 +4,7 @@ version = "0.3.2"
 description = "Brain Games!"
 authors = ["Decameron87"]
 readme = "README.md"
-packages = [{include = "brain_games"}]
+packages = [{include = "brain_games"},]
 
 [tool.poetry.dependencies]
 python = "^3.10.12"
