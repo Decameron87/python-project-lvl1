@@ -12,7 +12,7 @@ def task_condition():
     first_number = randint(1, 200)
     # i - список прогрессии длинною равной (y)
     i = []
-    y = 10
+    y = 9
     for y in range(1, y + 1, 1):
         first_number = first_number + increase_by_number
         i.append(first_number)
