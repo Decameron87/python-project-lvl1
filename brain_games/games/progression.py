@@ -18,7 +18,7 @@ def task_condition():
         i.append(first_number)
 
     min_progres = 6
-    max_progres = randint(0, 10)
+    max_progres = randint(0, 9)
 
     #   progres - список прогрессии
     progres = (i[0:min_progres]) + (i[min_progres:max_progres])
